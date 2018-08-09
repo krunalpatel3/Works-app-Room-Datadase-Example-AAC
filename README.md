@@ -9,7 +9,7 @@ You can Check this documentation for Loader and LiveData [Click here](https://de
 
 ### Question:-
 
-1) Can we use **LiveData instead of Loader**?
+1) Can we use **LiveData instead of Loader**?<br>
 **Ans**:- Yes we can use **LiveData instead of Loader**.
 
 Database Operation:-
