@@ -2,6 +2,11 @@
 
 Simple words app that save word in Database (Room Datadase). It show's you how to get start with Android architecture components.
 
+### Note:-
+
+Here we are using **LiveData instead of Loader**. We can use **LiveData instead of Loader**.
+You can Check this documentation for Loader and LiveData [Click here](https://developer.android.com/guide/components/loaders).
+
 Database Operation:-
 
 1) Insert.
