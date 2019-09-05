@@ -1,4 +1,4 @@
-# Works app (Android architecture components)
+# Works app (Android architecture components or Android Jetpack)
 
 Simple words app that save word in Database (Room Datadase). It show's you how to get start with Android architecture components.
 
